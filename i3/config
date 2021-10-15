@@ -189,8 +189,17 @@ exec --no-startup-id gwe --hide-window
 exec --no-startup-id nitrogen --restore
 exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 exec_always --no-startup-id setxkbmap -layout us -variant intl
+exec_always --no-startup-id ~/.config/picom/relaunch.sh
+
+# Window Borders
+        client.focused          #c23f3f #aa0909 #ba0000 #da0000
+        client.focused_inactive #333333 #6a5f5f #ffffff #504848
+        client.unfocused        #333333 #424242 #888888 #2e2929
+        client.urgent           #c19900 #906b00 #ffffff #900000
 
 for_window [class="^.*"] border pixel 0
 gaps inner 5
+
 # Here are my keybinds
-bindsym $mod+Shift+i exec --no-startup-id $terminal -e vim ~/.config/i3/config 
+#bindsym $mod+Shift+i exec --no-startup-id $terminal -e vim ~/.config/i3/config 
+bindsym $mod+Shift+i exec --no-startup-id $texteditor ~/.config/i3/config 
