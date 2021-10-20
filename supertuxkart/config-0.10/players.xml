@@ -12,44 +12,44 @@
                   story-ms="6510250" speedrun-ms="6989932">
         <abyss solved="hard" best_while_slower="false"/>
         <candela_city solved="hard" best_while_slower="false"/>
-        <cocoa_temple solved="none" best_while_slower="false"/>
+        <cocoa_temple solved="hard" best_while_slower="false"/>
         <cornfield_crossing solved="hard" best_while_slower="false"/>
-        <fortmagma solved="none" best_while_slower="false"/>
+        <fortmagma solved="hard" best_while_slower="false"/>
         <gp1 solved="hard" best_while_slower="false"/>
         <gp2 solved="hard" best_while_slower="false"/>
         <gp3 solved="hard" best_while_slower="false"/>
-        <gp4 solved="none" best_while_slower="false"/>
+        <gp4 solved="hard" best_while_slower="false"/>
         <granparadiso_island solved="hard" best_while_slower="false"/>
         <green_valley solved="hard" best_while_slower="false"/>
         <hacienda solved="hard" best_while_slower="true"/>
         <lighthouse solved="hard" best_while_slower="false"/>
         <mansion solved="hard" best_while_slower="false"/>
-        <mines solved="none" best_while_slower="false"/>
+        <mines solved="hard" best_while_slower="false"/>
         <minigolf solved="hard" best_while_slower="true"/>
         <olivermath solved="hard" best_while_slower="false"/>
-        <sandtrack solved="none" best_while_slower="false"/>
+        <sandtrack solved="hard" best_while_slower="false"/>
         <scotland solved="hard" best_while_slower="false"/>
         <snowmountain solved="hard" best_while_slower="false"/>
         <snowpeak solved="hard" best_while_slower="false"/>
-        <stk_enterprise solved="none" best_while_slower="false"/>
+        <stk_enterprise solved="hard" best_while_slower="false"/>
         <unlock_bonus_kart1 solved="best" best_while_slower="false"/>
-        <unlock_bonus_kart2 solved="none" best_while_slower="false"/>
-        <unlock_supertux solved="none" best_while_slower="false"/>
+        <unlock_bonus_kart2 solved="hard" best_while_slower="false"/>
+        <unlock_supertux solved="hard" best_while_slower="false"/>
         <volcano_island solved="hard" best_while_slower="false"/>
-        <xr591 solved="none" best_while_slower="false"/>
+        <xr591 solved="hard" best_while_slower="false"/>
         <zengarden solved="hard" best_while_slower="false"/>
       </story-mode>
       <achievements online="true"> 
-        <achievement id="1" achieved="false"/>
+        <achievement id="1" achieved="true"/>
         <achievement id="2" achieved="true"/>
         <achievement id="3" achieved="true"/>
         <achievement id="4" achieved="true"/>
         <achievement id="5" achieved="true"/>
-        <achievement id="6" achieved="false"/>
+        <achievement id="6" achieved="true"/>
         <achievement id="7" achieved="true"/>
         <achievement id="8" achieved="true"/>
         <achievement id="9" achieved="true"/>
-        <achievement id="10" achieved="false"/>
+        <achievement id="10" achieved="true"/>
         <achievement id="11" achieved="true"/>
         <achievement id="12" achieved="true"/>
           <data version="4"/>
